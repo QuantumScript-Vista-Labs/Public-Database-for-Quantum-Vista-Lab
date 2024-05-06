@@ -101,7 +101,9 @@ elif re == "write 100 of what i say":
     print("how much")
     how_much = input()
     print(word*how_much)
-
+elif re == "most useless browser there is":
+    print("it is on itch.io and was made by us there is no security\n", "here is the link, https://quantumscript-vista-labs.itch.io/worst-python-browser ")
+    input()
 else:
     print("i don't know what you mean by that")
     input()
